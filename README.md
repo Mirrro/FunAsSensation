@@ -13,7 +13,7 @@ _________
 - **Combo**  
   Tracks consecutive hits and triggers a combo effect - think Candy Crush streaks - to amplify player impact.  
 - **SFX & Music**  
-  Plays sound effects on mole events and loops a background track, engaging both ear and eye.  
+  Plays sound effects on mole events and loops a background track.  
 - **Look at Mouse**  
   Moles subtly follow the cursor, reinforcing player agency and immersion.  
 - **Post-Processing**  
